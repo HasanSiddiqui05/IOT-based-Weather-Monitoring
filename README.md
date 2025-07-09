@@ -64,13 +64,16 @@ The scope of this project encompasses the design, development, and deployment of
 
 Here are some screenshots showcasing key features of the application:
 
-> _Add your screenshots here with Markdown syntax:_
+```markdown
+HomePage
 
 ![image](https://github.com/user-attachments/assets/4b59cd98-caf9-4a33-9d4d-e43ddf05f8bc)
 ![image](https://github.com/user-attachments/assets/8f40a65d-ee72-4eb9-9f3e-dc8adfb5d9f8)
 
+Sensor Reading Page
 ![image](https://github.com/user-attachments/assets/5adadf69-26bc-4f69-a167-21fddd7651ad)
 
+Forecast Page
 ![image](https://github.com/user-attachments/assets/22626efb-7a38-4444-83af-c8fc20562f13)
 
 

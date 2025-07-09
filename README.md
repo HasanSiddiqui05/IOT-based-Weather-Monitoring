@@ -67,7 +67,7 @@ Here are some screenshots showcasing key features of the application:
 > _Add your screenshots here with Markdown syntax:_
 
 ```markdown
-![image](https://github.com/user-attachments/assets/59eacdb7-4026-4d96-8278-0b8dfe15ce8b)(./screenshots/dashboard.png)
+![image](https://github.com/user-attachments/assets/9181bec2-686d-4a0f-8b7c-60c9c296ad41)
 ![City Search](./screenshots/search.png)
 ![Alerts](./screenshots/alerts.png)
 

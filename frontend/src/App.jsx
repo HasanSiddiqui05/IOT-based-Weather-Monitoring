@@ -16,7 +16,7 @@ const RedirectLoggedInUsers = ({ children }) => {
   const { AuthState, checkingAuth } = useAuth();
 
   if (checkingAuth) {
-    return null; // Show nothing while checking auth
+    return null; 
   }
 
   if (AuthState?.isLoggedIn && AuthState?.user?.isVerified) {
